@@ -13,6 +13,7 @@ require (
 require (
 	github.com/gocql/gocql v1.6.0
 	github.com/golang-migrate/migrate/v4 v4.16.2
+	github.com/google/uuid v1.3.0
 	github.com/scylladb/gocqlx/v2 v2.8.0
 )
 
